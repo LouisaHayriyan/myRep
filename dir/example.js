@@ -1,4 +1,8 @@
 //anything
-function miLavFunction() {
-  console.log('de lava');
+function miLavFunction(p) {
+  console.log('de lava'+p);
 }
+
+
+
+let a = 5;
